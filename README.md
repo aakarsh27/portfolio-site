@@ -1,3 +1,3 @@
 portfolio of myself created on react
 
-i want to make this
+i want to make this website of myself
